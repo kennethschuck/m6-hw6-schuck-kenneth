@@ -21,8 +21,6 @@
 .bio {
   outline: 5px solid black;
   background-color: white;
-  display: flex;
-  flex-direction: row;
   /*display: flex;*/
       width: 55%;
       float:left;
