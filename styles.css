@@ -27,10 +27,12 @@
 margin: 50px;
       
       text-align: left;
-    p {
-      margin: 10px;
+ 
     }
-    }
+
+.p {
+  padding-left: 15-px;
+}
 .me {
       float: left;
       /*margin: 5px;*/
