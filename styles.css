@@ -99,4 +99,7 @@ h3 {
   margin-top: 0px;
 }
        
-
+.barz {
+  display: flex;
+  flex-direction: row;
+}
