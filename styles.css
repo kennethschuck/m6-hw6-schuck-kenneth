@@ -27,7 +27,9 @@
 margin: 50px;
       
       text-align: left;
-
+    p {
+      margin: 10px;
+    }
     }
 .me {
       float: left;
