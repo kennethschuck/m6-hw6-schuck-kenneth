@@ -102,6 +102,7 @@ h3 {
 }
        
 .barz {
+  background-color: blue;
   display: flex;
   flex-direction: row;
 }
