@@ -48,6 +48,8 @@ margin: 50px;
 }
 
 .links {
+  display: flex;
+  flex-direction: row;
    width: 65%;
    float:right;
    padding-left:25-px;
