@@ -1,0 +1,86 @@
+/*.layout-container {
+   width:100%;
+}*/
+/*.wrapper {
+  margin-right: auto; 
+  margin-left:  auto; 
+
+  max-width: 960px; 
+  padding-right: 10px; 
+  padding-left:  10px; 
+}*/
+
+/*.layout-container:after {
+   clear:both;
+}*/
+
+.bio {
+      width: 55%;
+      /*float:left;*/
+      margin: 5%;
+      
+      text-align: left;
+
+    }
+.me {
+      float: left;
+      /*margin: 5px;*/
+ padding: 0 20px 20px 0;
+    }
+  
+    /*h1 {
+      color: pink;
+    }*/
+.name {
+   width: 25%;
+   background-color: blue;
+   color: white;
+   padding-left:25-px;
+   padding-right:25-px;
+}
+
+.links {
+   width: 60%;
+   float:right;
+   padding-left:25-px;
+   padding-right:25-px;
+   font-family: "Lucida Console", "Courier New", monospace;
+   color: blue;
+   text-align:center;
+}
+  
+    
+  
+    p {
+      background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/ffd6f82c-60e2-4c97-bdc9-850e966f3ed7/pink-flowers.png);
+      background-repeat: repeat;
+        /*--webkit-background-clip: text;
+        ###-webkit-text-fill-color: transparent;*/
+      font-size: 25px; }
+      
+ 
+  .sidebar div {
+  padding: 8px;
+  }
+
+.h3 {
+   color:black;
+}
+       
+.sidebar {
+  /*height: 100%;*/
+  display: flex;
+  flex-direction: row
+   width: 25%;
+  float: right;
+  /* position: fixed; */ 
+  z-index: 1; /* Stay on top */
+  top: 0; 
+  right: 0;
+  background-color: white;
+  color: blue;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+  padding-left: 25px;
+    }
+       
