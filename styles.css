@@ -103,6 +103,9 @@ h3 {
        
 .barz {
   /*background-color: blue;*/
+  padding-left: 25-px;
+  font-family: "Lucida Console", "Courier New", monospace;
+   font-size: 18-px;
   display: flex;
   flex-direction: row;
 }
