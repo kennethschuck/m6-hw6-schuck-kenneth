@@ -67,10 +67,11 @@
   flex-direction: row;
    /*width: 25%;*/
   float: right;
+  margin: 5%;
   /* position: fixed; */ 
   z-index: 1; /* Stay on top */
-  top: 0; 
-  right: 0;
+  /*top: 0; 
+  right: 0;*/
   background-color: white;
   color: blue;
   overflow-x: hidden; /* Disable horizontal scroll */
